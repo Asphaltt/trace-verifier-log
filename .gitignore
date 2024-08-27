@@ -23,3 +23,9 @@ go.work.sum
 
 # env file
 .env
+
+# bpf2go generated files
+*_bpfe*
+
+# Editors
+.vscode/
