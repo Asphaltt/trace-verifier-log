@@ -29,3 +29,6 @@ go.work.sum
 
 # Editors
 .vscode/
+
+# Local binary files
+/trace-verifier-log

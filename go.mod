@@ -1,4 +1,4 @@
-module github.com/Asphaltt/bpfvdump
+module github.com/Asphaltt/trace-verifier-log
 
 go 1.22.4
 
